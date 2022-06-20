@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fa9qLu9VgBM+95qk7cdPWhZE+GPTmnuM9t9GR3Sg9ui1fi8Zmn1lSzMAMnYjLD8RW/qAZU+MJZAU82sWk6V1Ew==",
+  "success": true,
+  "projectFilePath": "C:\\Kuliah\\Tugas Kuliah\\Semester 4\\Arsitektur Jaringan\\FP\\Jankenpon\\Jankenpon\\Jankenpon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rifky Adha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
